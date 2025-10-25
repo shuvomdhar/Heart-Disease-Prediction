@@ -66,7 +66,7 @@ cd Heart-Disease-Prediction
 
 2. Install required dependencies:
 ```bash
-pip install streamlit pandas joblib scikit-learn
+pip install streamlit pandas joblib sklearn
 ```
 
 3. Ensure model files are in the project directory:
